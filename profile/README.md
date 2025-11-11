@@ -66,11 +66,9 @@
 
 ### 저장소 명명 규칙
 ```
-2025-2-[과목명]-[팀명]
-예) 2025-2-RnD-Generative
+2025-2-[과목명]-[팀or프로젝트명]
+예) 2025-2-RnD-project1
 ```
-
-<br>
 
 ## 👥 관리자
 - GitHub Organization 관리자: @eunhak11
