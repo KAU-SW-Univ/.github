@@ -61,6 +61,7 @@
 - [**SeoulE**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-SeoulE) - 서울 역사적 문화유산 콘텐츠 "서우리"
 
 <br>
+
 ## 📌 프로젝트 가이드
 
 ### 저장소 명명 규칙
@@ -68,7 +69,8 @@
 2025-2-[과목명]-[팀명]
 예) 2025-2-RnD-Generative
 ```
----
+
+<br>
 
 ## 👥 관리자
 - GitHub Organization 관리자: @eunhak11
@@ -77,7 +79,7 @@
 - 프로젝트 관련 문의: swuniv@kau.ac.kr
 - GitHub 이슈: 각 리포지토리의 Issues 탭 활용
 
----
+<br>
 
 <div align="center">
 
