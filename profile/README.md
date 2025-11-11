@@ -16,8 +16,8 @@
 - [**AIKids**](https://github.com/KAU-SW-Univ/2025-2-RnD-AIKids) - [모바일앱개발협동조합] AI 기반 어린이 대상 대화 서비스 플랫폼
 - [**Capybara**](https://github.com/KAU-SW-Univ/2025-2-RnD-Capybara) - [무하유] 멀티모달 생성형 AI 콘텐츠 분석을 위한 데이터 파이프라인 구축
 - [**Findy**](https://github.com/KAU-SW-Univ/2025-2-RnD-Findy) - [모바일앱개발협동조합] AI기반 틀린 그림 찾기 플랫폼
-- [**LearnersHigh**](https://github.com/KAU-SW-Univ/2025-2-RnD-LearnersHigh) - [비틀웍스] 모바일 AI 학습플래너 🌐 Public
-- [**Artly**](https://github.com/KAU-SW-Univ/2025-2-RnD-Artly) - [오드레몬오리진] 빅데이터 및 생성AI 기술을 활용한 작가/갤러리 팬덤 플랫폼 🌐 Public
+- [**LearnersHigh**](https://github.com/KAU-SW-Univ/2025-2-RnD-LearnersHigh) - [비틀웍스] 모바일 AI 학습플래너
+- [**Artly**](https://github.com/KAU-SW-Univ/2025-2-RnD-Artly) - [오드레몬오리진] 빅데이터 및 생성AI 기술을 활용한 작가/갤러리 팬덤 플랫폼
 
 ### 컴퓨터 비전/영상처리
 - [**ContinuousTrack**](https://github.com/KAU-SW-Univ/2025-2-RnD-ContinuousTrack) - [Rapid Cubes] 큐브 위성 온보드 AI 기반 구름 감지 및 이미지 처리
@@ -61,7 +61,6 @@
 - [**UnReal**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-UnReal) - 언리얼엔진5와 데디케이트 서버를 사용하는 멀티플레이 슈팅 게임 개발
 - [**SeoulE**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-SeoulE) - 서울 역사적 문화유산 콘텐츠 "서우리"
 
-<br>
 ---
 
 ## 📌 프로젝트 가이드
@@ -71,7 +70,6 @@
 2025-2-[과목명]-[팀명]
 예) 2025-2-RnD-Generative
 ```
-<br>
 ---
 
 ## 👥 관리자
@@ -81,7 +79,6 @@
 - 프로젝트 관련 문의: swuniv@kau.ac.kr
 - GitHub 이슈: 각 리포지토리의 Issues 탭 활용
 
-<br>
 ---
 
 <div align="center">
