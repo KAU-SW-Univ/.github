@@ -47,7 +47,7 @@
 
 ## 🚀 ProjectX (6개)
 
-### 개발자 도구/교육
+### 교육
 - [**FollowE**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-FollowE) - 예비 개발자를 위한 커스텀 로드맵 및 포트폴리오 제공 서비스 "E를 따르라"
 
 ### 라이프스타일
