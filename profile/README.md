@@ -60,8 +60,7 @@
 - [**UnReal**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-UnReal) - 언리얼엔진5와 데디케이트 서버를 사용하는 멀티플레이 슈팅 게임 개발
 - [**SeoulE**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-SeoulE) - 서울 역사적 문화유산 콘텐츠 "서우리"
 
----
-
+<br>
 ## 📌 프로젝트 가이드
 
 ### 저장소 명명 규칙
