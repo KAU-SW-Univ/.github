@@ -42,8 +42,7 @@
 ### 블록체인/BCI
 - [**AgentChain**](https://github.com/KAU-SW-Univ/2025-2-RnD-AgentChain) - [미바고] 블록체인 기반 탈중앙화 AI 모델 거래 및 튜닝 플랫폼
 - [**Mindle**](https://github.com/KAU-SW-Univ/2025-2-RnD-Mindle) - [더뉴피쳐] BCI(뇌-컴퓨터 상호작용) 데이터 학습 및 가시화 연구
-
----
+<br>
 
 ## 🚀 ProjectX (6개)
 
