@@ -1,4 +1,10 @@
-# 🎓 2025-2학기 프로젝트
+<div align="center">
+
+*🎓 Korea Aerospace University**  
+*Software Department**  
+*2025-2 Industry-Academic Cooperation Projects**
+
+</div>
 
 > 한국항공대학교 SW중심대학 프로젝트 통합 관리 저장소
 <br>
@@ -76,13 +82,3 @@
 ## 📧 문의
 - 프로젝트 관련 문의: swuniv@kau.ac.kr
 - GitHub 이슈: 각 리포지토리의 Issues 탭 활용
-
-<br>
-
-<div align="center">
-
-**🎓 Korea Aerospace University**  
-**Software Department**  
-**2025-2 Industry-Academic Cooperation Projects**
-
-</div>
