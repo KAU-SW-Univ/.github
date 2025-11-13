@@ -1,8 +1,8 @@
 <div align="center">
 
-*🎓 Korea Aerospace University**  
-*Software Department**  
-*2025-2 Industry-Academic Cooperation Projects**
+*🎓 Korea Aerospace University*
+*Software Department*
+*2025-2 Industry-Academic Cooperation Projects*
 
 </div>
 
