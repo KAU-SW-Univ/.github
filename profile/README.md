@@ -2,7 +2,7 @@
 
 **🎓 Korea Aerospace University**<br>
 **Software Department**<br>
-**Project Repository Management**
+**Project Repository Management**<br>
 _한국항공대학교 SW중심대학 프로젝트 통합 관리 저장소_
 
 </div>
