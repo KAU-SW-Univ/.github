@@ -44,6 +44,8 @@
 - [**AEROByte**](https://github.com/KAU-SW-Univ/2025-2-RnD-AEROByte) - [아이캡틴] 딥러닝 기반 객체 인식 및 실시간 드론 제어 시스템
 - [**ContinuousTrack**](https://github.com/KAU-SW-Univ/2025-2-RnD-ContinuousTrack) - [Rapid Cubes] 큐브 위성 온보드 AI 기반 구름 감지 및 이미지 처리
 
+---
+
   #### ProjectX (6개)
 - [**SeoulE**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-SeoulE) - 서울의 역사적 문화유산을 보다 깊이 있게 전달하고 특별한 문화적 경험까지 제공할 수 있는 역사 관련 콘텐츠 개발 "서우리"
 - [**UnReal**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-UnReal) - 언리얼엔진5와 데디케이트 서버를 사용하는 멀티플레이 슈팅 게임 개발
