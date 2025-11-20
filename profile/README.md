@@ -10,16 +10,17 @@ _한국항공대학교 SW중심대학 프로젝트 통합 관리 저장소_
 <br>
 
 ## 📊 전체 현황
-- **총 43개 리포지토리(중복 제외)**
+- **총 48개 리포지토리(중복 제외)**
 - **2025 산학협력 R&D**: 20개
-- **2025-ProjectX**: 15개 (1학기 6개, 2학기 9개)
+- **2025-Gamethon**: 5개
+- **2025-ProjectX**: 15개 (1학기 9개, 2학기 6개)
 - **2024-ProjectX**: 10개 (1학기 5개, 2학기 5개)
 
 ---
 
 ## 2025년도
 
-### 2025-2학기 (26개)
+### 2025-2학기 (31개)
 
 #### 산학협력 R&D (20개)
 
@@ -46,7 +47,16 @@ _한국항공대학교 SW중심대학 프로젝트 통합 관리 저장소_
 
 ---
 
-  #### ProjectX (6개)
+#### Gamethon (5개)
+- [**TITANOMACHIA**](https://github.com/KAU-SW-Univ/2025-Gamethon-TITANOMACHIA) - 2025 항공대학교 제4회 테트리스 게임톤 : Team Makers - TITANOMACHIA
+- [**YangjiUp**](https://github.com/KAU-SW-Univ/2025-Gamethon-YangjiUp) - 2025 항공대학교 제4회 테트리스 게임톤 : 양지업
+- [**LittleTable**](https://github.com/KAU-SW-Univ/2025-Gamethon-LittleTable) - 2025 항공대학교 제4회 테트리스 게임톤 : 여정의 신남 - Little Table
+- [**toFarSideOfEarth**](https://github.com/KAU-SW-Univ/2025-Gamethon-toFarSideOfEarth) - 2025 항공대학교 제4회 테트리스 게임톤 : seven billion studio - 지구 저편까지
+- [**TLudus**](https://github.com/KAU-SW-Univ/2025-Gamethon-TLudus) - 2025 항공대학교 제4회 테트리스 게임톤 : Team Ludus - TLudus
+
+---
+
+#### ProjectX (6개)
 - [**SeoulE**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-SeoulE) - 서울의 역사적 문화유산을 보다 깊이 있게 전달하고 특별한 문화적 경험까지 제공할 수 있는 역사 관련 콘텐츠 개발 "서우리"
 - [**UnReal**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-UnReal) - 언리얼엔진5와 데디케이트 서버를 사용하는 멀티플레이 슈팅 게임 개발
 - [**KAUMuncheol**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-KAUMuncheol) - 운전자가 실시간으로 차량 상태를 파악할 수 있도록 돕는 OBD 기반 차량 진단 시스템 개발 "KAU문철"
@@ -61,10 +71,10 @@ _한국항공대학교 SW중심대학 프로젝트 통합 관리 저장소_
 #### ProjectX (9개)
 - [**Footballer**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-Footballer) - 사용자가 응원하는 팀을 선택하고 팀의 승부 예측, 커뮤니티 활동 등을 통해 팬 활동에 적극적으로 참여할 수 있도록 설계된 서비스 "풋볼러"
 - [**LeeJongYeop**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-LeeJongYeop) - LDA 토픽 모델링 및 N-gram 언어 모델을 활용한 현안 분석과 입지 최적화를 통한 전략 도출
-- [**SeoulE**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-SeoulE) - 서울의 역사적 문화유산을 보다 깊이 있게 전달하고 특별한 문화적 경험까지 제공할 수 있는 역사 관련 콘텐츠 개발 "서우리"
+- [**SeoulE**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-SeoulE) - 서울의 역사적 문화유산을 보다 깊이 있게 전달하고 특별한 문화적 경험까지 제공할 수 있는 역사 관련 콘텐츠 개발 "서우리"
 - [**Deeperent**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-Deeperent) - 청각장애인을 위한 영상 내 자막 생성 AI 알고리즘 개발 "Deeperent"
 - [**WhiteIce**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-WhiteIce) - 블랙아이스 위험도 예측 및 실시간 경고 시스템 "WhiteIce"
-- [**UnReal**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-UnReal) - 언리얼엔진5와 데디케이트 서버를 사용하는 멀티플레이 슈팅 게임 개발
+- [**UnReal**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-UnReal) - 언리얼엔진5와 데디케이트 서버를 사용하는 멀티플레이 슈팅 게임 개발
 - [**REFRESH**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-REFRESH) - 반려동물과 보호자의 삶을 기록하고, 감정을 치유하며, 추억과 작별의 순간을 함께하는 반려동물 동반 애플리케이션 "REFRESH"
 - [**SecureAI**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-SecureAI) - AI 기반 개인 맞춤형 피싱 설계 방지 및 대응 웹플랫폼 "SecureAI"
 - [**BraveBabo**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-BraveBabo) - AI를 기반한 뷰티 합성 모바일 어플리케이션 개발(헤어 합성/메이크업 합성/타투 합성/네일 및 페디큐어 합성 등의 기능을 지원)
@@ -102,6 +112,7 @@ _한국항공대학교 SW중심대학 프로젝트 통합 관리 저장소_
 [연도]-[학기]-[과목명]-[팀or프로젝트명]
 예) 2025-2-RnD-Generative
     2025-2-ProjectX-FollowE
+    2025-Gamethon-TITANOMACHIA
 ```
 
 ## 👥 관리자
