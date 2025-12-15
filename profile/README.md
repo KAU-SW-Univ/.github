@@ -46,15 +46,6 @@ _한국항공대학교 SW중심대학 프로젝트 통합 관리 저장소_
 - [**ContinuousTrack**](https://github.com/KAU-SW-Univ/2025-2-RnD-ContinuousTrack) - [Rapid Cubes] 큐브 위성 온보드 AI 기반 구름 감지 및 이미지 처리
 
 
-#### Gamethon (5개)
-- [**TITANOMACHIA**](https://github.com/KAU-SW-Univ/2025-Gamethon-TITANOMACHIA) - 2025 항공대학교 제4회 테트리스 게임톤 : Team Makers - TITANOMACHIA
-- [**YangjiUp**](https://github.com/KAU-SW-Univ/2025-Gamethon-YangjiUp) - 2025 항공대학교 제4회 테트리스 게임톤 : 양지업
-- [**LittleTable**](https://github.com/KAU-SW-Univ/2025-Gamethon-LittleTable) - 2025 항공대학교 제4회 테트리스 게임톤 : 여정의 신남 - Little Table
-- [**toFarSideOfEarth**](https://github.com/KAU-SW-Univ/2025-Gamethon-toFarSideOfEarth) - 2025 항공대학교 제4회 테트리스 게임톤 : seven billion studio - 지구 저편까지
-- [**TLudus**](https://github.com/KAU-SW-Univ/2025-Gamethon-TLudus) - 2025 항공대학교 제4회 테트리스 게임톤 : Team Ludus - TLudus
-
----
-
 #### ProjectX (6개)
 - [**SeoulE**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-SeoulE) - 서울의 역사적 문화유산을 보다 깊이 있게 전달하고 특별한 문화적 경험까지 제공할 수 있는 역사 관련 콘텐츠 개발 "서우리"
 - [**UnReal**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-UnReal) - 언리얼엔진5와 데디케이트 서버를 사용하는 멀티플레이 슈팅 게임 개발
@@ -62,6 +53,14 @@ _한국항공대학교 SW중심대학 프로젝트 통합 관리 저장소_
 - [**DontCrossLegs**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-DontCrossLegs) - 개인 맞춤형 AI 홈 트레이닝 앱 "Body-Check"
 - [**YJ**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-YJ) - 갓생: 일상의 효율을 증가시키는 다기능 모바일 어플리케이션 개발
 - [**FollowE**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-FollowE) - 예비 개발자를 위한 커스텀 로드맵 및 포트폴리오를 제공하는 서비스 "E를 따르라"
+
+
+#### Gamethon (5개)
+- [**TITANOMACHIA**](https://github.com/KAU-SW-Univ/2025-Gamethon-TITANOMACHIA) - 2025 항공대학교 제4회 테트리스 게임톤 : Team Makers - TITANOMACHIA
+- [**YangjiUp**](https://github.com/KAU-SW-Univ/2025-Gamethon-YangjiUp) - 2025 항공대학교 제4회 테트리스 게임톤 : 양지업
+- [**LittleTable**](https://github.com/KAU-SW-Univ/2025-Gamethon-LittleTable) - 2025 항공대학교 제4회 테트리스 게임톤 : 여정의 신남 - Little Table
+- [**toFarSideOfEarth**](https://github.com/KAU-SW-Univ/2025-Gamethon-toFarSideOfEarth) - 2025 항공대학교 제4회 테트리스 게임톤 : seven billion studio - 지구 저편까지
+- [**TLudus**](https://github.com/KAU-SW-Univ/2025-Gamethon-TLudus) - 2025 항공대학교 제4회 테트리스 게임톤 : Team Ludus - TLudus
 
 ---
 
