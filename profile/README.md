@@ -45,7 +45,6 @@ _한국항공대학교 SW중심대학 프로젝트 통합 관리 저장소_
 - [**AEROByte**](https://github.com/KAU-SW-Univ/2025-2-RnD-AEROByte) - [아이캡틴] 딥러닝 기반 객체 인식 및 실시간 드론 제어 시스템
 - [**ContinuousTrack**](https://github.com/KAU-SW-Univ/2025-2-RnD-ContinuousTrack) - [Rapid Cubes] 큐브 위성 온보드 AI 기반 구름 감지 및 이미지 처리
 
----
 
 #### Gamethon (5개)
 - [**TITANOMACHIA**](https://github.com/KAU-SW-Univ/2025-Gamethon-TITANOMACHIA) - 2025 항공대학교 제4회 테트리스 게임톤 : Team Makers - TITANOMACHIA
