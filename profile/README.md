@@ -113,9 +113,6 @@ _한국항공대학교 SW중심대학 프로젝트 통합 관리 저장소_
     2025-Gamethon-TITANOMACHIA
 ```
 
-## 👥 관리자
-- GitHub Organization 관리자: @eunhak11
-
 ## 📧 문의
 - 프로젝트 관련 문의: swuniv@kau.ac.kr
 - GitHub 이슈: 각 리포지토리의 Issues 탭 활용
