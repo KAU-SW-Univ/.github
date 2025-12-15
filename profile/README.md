@@ -74,7 +74,7 @@ _한국항공대학교 SW중심대학 프로젝트 통합 관리 저장소_
 - [**SeoulE**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-SeoulE) - 서울의 역사적 문화유산을 보다 깊이 있게 전달하고 특별한 문화적 경험까지 제공할 수 있는 역사 관련 콘텐츠 개발 "서우리"
 - [**Deeperent**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-Deeperent) - 청각장애인을 위한 영상 내 자막 생성 AI 알고리즘 개발 "Deeperent"
 - [**WhiteIce**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-WhiteIce) - 블랙아이스 위험도 예측 및 실시간 경고 시스템 "WhiteIce"
-- [**UnReal**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-UnReal) - 언리얼엔진5와 데디케이트 서버를 사용하는 멀티플레이 슈팅 게임 개발
+- [**UnReal**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-UnReal) - 언리얼엔진5와 데디케이트 서버를 사용하는 멀티플레이 슈팅 게임 개발
 - [**REFRESH**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-REFRESH) - 반려동물과 보호자의 삶을 기록하고, 감정을 치유하며, 추억과 작별의 순간을 함께하는 반려동물 동반 애플리케이션 "REFRESH"
 - [**SecureAI**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-SecureAI) - AI 기반 개인 맞춤형 피싱 설계 방지 및 대응 웹플랫폼 "SecureAI"
 - [**BraveBabo**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-BraveBabo) - AI를 기반한 뷰티 합성 모바일 어플리케이션 개발(헤어 합성/메이크업 합성/타투 합성/네일 및 페디큐어 합성 등의 기능을 지원)
