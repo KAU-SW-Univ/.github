@@ -71,7 +71,7 @@ _한국항공대학교 SW중심대학 프로젝트 통합 관리 저장소_
 #### ProjectX (9개)
 - [**Footballer**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-Footballer) - 사용자가 응원하는 팀을 선택하고 팀의 승부 예측, 커뮤니티 활동 등을 통해 팬 활동에 적극적으로 참여할 수 있도록 설계된 서비스 "풋볼러"
 - [**LeeJongYeop**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-LeeJongYeop) - LDA 토픽 모델링 및 N-gram 언어 모델을 활용한 현안 분석과 입지 최적화를 통한 전략 도출
-- [**SeoulE**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-SeoulE) - 서울의 역사적 문화유산을 보다 깊이 있게 전달하고 특별한 문화적 경험까지 제공할 수 있는 역사 관련 콘텐츠 개발 "서우리"
+- [**SeoulE**](https://github.com/KAU-SW-Univ/2025-2-ProjectX-SeoulE) - 서울의 역사적 문화유산을 보다 깊이 있게 전달하고 특별한 문화적 경험까지 제공할 수 있는 역사 관련 콘텐츠 개발 "서우리"
 - [**Deeperent**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-Deeperent) - 청각장애인을 위한 영상 내 자막 생성 AI 알고리즘 개발 "Deeperent"
 - [**WhiteIce**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-WhiteIce) - 블랙아이스 위험도 예측 및 실시간 경고 시스템 "WhiteIce"
 - [**UnReal**](https://github.com/KAU-SW-Univ/2025-1-ProjectX-UnReal) - 언리얼엔진5와 데디케이트 서버를 사용하는 멀티플레이 슈팅 게임 개발
