@@ -41,7 +41,7 @@ _한국항공대학교 SW중심대학 프로젝트 통합 관리 저장소_
 - [**Generative**](https://github.com/KAU-SW-Univ/2025-2-RnD-Generative) - [소프트온넷] LLM 기반 대학 본부 교무 행정 자동 질의응답 시스템
 - [**KABLO**](https://github.com/KAU-SW-Univ/2025-2-RnD-KABLO) - [파블로항공] AI 기반 드론 탑재형 경량/저가형 영상 추적 시스템 개발 및 실증
 - [**Imageners**](https://github.com/KAU-SW-Univ/2025-2-RnD-Imageners) - [휴데이터스] 물류 차량 영상을 이용한 도로 변화 정보 탐지
-- [**Robotics**](https://github.com/KAU-SW-Univ/2025-2-RnD-Robotics) - [로보티즈] AI 기반 물건 분류 자동화 시스템 개발
+- [**Robotis**](https://github.com/KAU-SW-Univ/2025-2-RnD-Robotics) - [로보티즈] AI 기반 물건 분류 자동화 시스템 개발
 - [**AEROByte**](https://github.com/KAU-SW-Univ/2025-2-RnD-AEROByte) - [아이캡틴] 딥러닝 기반 객체 인식 및 실시간 드론 제어 시스템
 - [**ContinuousTrack**](https://github.com/KAU-SW-Univ/2025-2-RnD-ContinuousTrack) - [Rapid Cubes] 큐브 위성 온보드 AI 기반 구름 감지 및 이미지 처리
 
