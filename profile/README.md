@@ -1,7 +1,7 @@
 <div align="center">
 
 **🎓 Korea Aerospace University**<br>
-**Software Department**<br>
+**National Program of Excellence in Software**<br>
 **Project Repository Management**<br>
 _한국항공대학교 SW중심대학 프로젝트 통합 관리 저장소_
 
